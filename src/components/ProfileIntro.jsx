@@ -4,7 +4,7 @@ export default function ProfileIntro() {
   return (
     <section className="intro" id="top">
       <div className="intro-left">
-        <h1>Kella<br />Chanikiya</h1>
+        <h1>Kella<br />Chanikya</h1>
         <p className="role">Aspiring Software Developer</p>
         <p className="stack">Python | Java | Generative AI</p>
       </div>
